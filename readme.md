@@ -26,7 +26,7 @@ This project helps recruiters and job seekers evaluate multiple resumes against 
 git clone https://github.com/your-username/resume-ranker.git
 cd resume-ranker
 pip install -r requirements.txt
-
+```
 📷 Screenshots
 
 📁 Project Structure
@@ -53,4 +53,4 @@ Pavan Gannoju
 
 🌐 Live App
 Once deployed on Streamlit Cloud:
-Visit the App: [text](https://resumeranker.streamlit.app/)
+Visit the App: (https://resumeranker.streamlit.app/)
