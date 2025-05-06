@@ -30,13 +30,13 @@ pip install -r requirements.txt
 📷 Screenshots
 
 📁 Project Structure
-resume-ranker/
-│
-├── app.py                  # Main Streamlit app
-├── ranker.py               # NLP-based ranking logic
-├── user_auth.py            # User login/signup and history storage
-├── utils.py                # Resume text extraction and visualizations
-├── requirements.txt
+resume-ranker/  
+│       
+├── app.py  
+├── ranker.py       
+├── user_auth.py             
+├── utils.py               
+├── requirements.txt    
 └── README.md
 
 🧠 Future Improvements
