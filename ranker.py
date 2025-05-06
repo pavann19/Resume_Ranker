@@ -2,7 +2,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import nltk
 
-nltk.download('punkt')
+nltk.download('punkt_tab')
 
 def calculate_similarity(resume_text, jd_text):
     documents = [resume_text, jd_text]
