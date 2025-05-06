@@ -12,6 +12,9 @@ def calculate_similarity(resume_text, jd_text):
     return round(similarity[0][0] * 100, 2)
 
 def extract_keywords(text):
+    import nltk
+# Ensure punkt is downloaded
+    nltk.download('punkt_tab')
     words = nltk.word_tokenize(text.lower())
     return list(set([word for word in words if word.isalpha() and len(word) > 3]))
 

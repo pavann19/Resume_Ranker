@@ -27,9 +27,17 @@ git clone https://github.com/your-username/resume-ranker.git
 cd resume-ranker
 pip install -r requirements.txt
 ```
-📷 Screenshots
+## 📷 Screenshots
+### 🔐 Login & Signup Page
+![Login Page](screenshots/login.png)
 
-📁 Project Structure
+### 📄 Resume Upload & Job Description
+![Upload Page](screenshots/main.png)
+
+### 📊 Resume Ranking Results
+![Results Page](screenshots/results.png)
+
+## 📁 Project Structure
 resume-ranker/  
 │       
 ├── app.py  
