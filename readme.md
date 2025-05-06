@@ -53,4 +53,4 @@ Pavan Gannoju
 
 🌐 Live App
 Once deployed on Streamlit Cloud:
-Visit the App: https://resumeranker.streamlit.app/
+Visit the App: [text](https://resumeranker.streamlit.app/)
